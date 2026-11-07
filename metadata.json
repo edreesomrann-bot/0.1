@@ -1,0 +1,6 @@
+{
+  "name": "Hirafi - Craftsman & Home Services",
+  "description": "On-demand craftsman and home maintenance platform (com.aistudio.hirafi.qtwz) featuring verified tradesmen, instant bookings, live order tracking, craftsman dashboard, AI fault diagnosis, and project inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
